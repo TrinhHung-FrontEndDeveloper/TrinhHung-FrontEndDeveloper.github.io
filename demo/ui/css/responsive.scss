@@ -1,0 +1,15 @@
+@media only screen and (max-width: 576px) {
+  .line-header {
+    display: none;
+  }
+  .logo {
+    text-align: center;
+  }
+  nav {
+    display: none;
+    background: #fff;
+  }
+  .side-bar {
+    padding-top: 0;
+  }
+}
